@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# data / outputs
+data/
+raw_data/
+results/
+outputs/
+*.mat
+*.h5
+*.npy
+*.npz
+*.pkl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
