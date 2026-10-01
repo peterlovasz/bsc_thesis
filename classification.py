@@ -1,5 +1,4 @@
 # extract statisctical values of all subcarriers and average them
-# try this to select subcarriers -> weighting: w_i = power(0.1–0.7 Hz band) / power(out-of-band) before filtering
 
 import os, pickle, warnings
 import scipy.io as io
